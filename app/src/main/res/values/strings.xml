@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_name">Верно</string>
+    <string name="false_name">Не верно</string>
+    <string name="next">Следующий вопрос</string>
+
+    <string name="quest_1">Планета Меркурий ближе к Солнцу, чем все остальные? </string>
+    <string name="quest_2">Гепард быстрейший из всех наземных млекопитающих? </string>
+    <string name="quest_3">Возраст дерева можно узнать по его высоте?  </string>
+    <string name="quest_4">Птица колибри способна развивать до 80 км/ч?  </string>
+    <string name="quest_5">Крокодилы меняют цвет кожи, если чувствуют опасность? </string>
+    <string name="quest_6">Ззубы у акулы регулярно сменяются? </string>
+
+</resources>
